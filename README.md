@@ -9,6 +9,6 @@
 ##
 
 <div>
-<p>E a partir disso, desenvolvi a seguinte solução...<p>
+<p>E a partir disso, desenvolvi a seguinte solução na linguagem Ruby...<p>
 <img height="250em" src="https://cdn.discordapp.com/attachments/935733078989631540/1018376951582433321/unknown.png" alt="Código da solução">
 </div>
